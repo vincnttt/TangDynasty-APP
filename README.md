@@ -1,6 +1,6 @@
 # Tang Dynasty APP
 
-**This software is developed by using [Flutter](https://flutter.dev/) for Chinese and English bilingual app. It arranges Chinese historical events in order with time as the axis, connects the events to form a relatively complete recording system, and then presents the causes and consequences of historical events in the form of pictures and texts. It can quickly find historical events and systematize, complete and accurate events.**
+**This Application is developed by using [Flutter](https://flutter.dev/) for Chinese and English bilingual app. It arranges Chinese historical events in order with time as the axis, connects the events to form a relatively complete recording system, and then presents the causes and consequences of historical events in the form of pictures and texts. It can quickly find historical events and systematize, complete and accurate events.**
 
 * [中文版](https://github.com/vincnttt/TangDynasty-APP/blob/master/README_zh.md)
 
