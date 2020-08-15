@@ -1,6 +1,6 @@
 # 唐朝大事APP
 
-**此软件为中英双语APP使用[Flutter](https://flutter.dev/)开发，以时间为轴按顺序排列中国历史事件，将事件串联起来，形成相对完整的记录体系，再以图文的形式呈现历史事件的前因后果。可快速查找历史事件并把事件系统化、完整化、精确化。**
+**此应用程序为中英双语APP使用[Flutter](https://flutter.dev/)开发，以时间为轴按顺序排列中国历史事件，将事件串联起来，形成相对完整的记录体系，再以图文的形式呈现历史事件的前因后果。可快速查找历史事件并把事件系统化、完整化、精确化。**
 
 * [English version](https://github.com/vincnttt/TangDynasty-APP/blob/master/README.md)
 
