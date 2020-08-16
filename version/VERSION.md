@@ -1,4 +1,4 @@
-# 唐朝大事版本
+# Tang Dynasty Version
 
 ## Scan to Download (Android)
 ![app-qr](still-on-progress)
