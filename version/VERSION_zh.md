@@ -1,6 +1,6 @@
 # 唐朝大事版本
 
-## 扫码下载（安卓）
+## 扫码下载（安卓）[或点击这里](https://github.com/vincnttt/TangDynasty-APP/tree/master/version/apk)
 ![app-qr](still-on-progress)
 * [English](https://github.com/vincnttt/TangDynasty-APP/tree/master/version/VERSION.md)
 * [有关设计和功能的详细信息](https://github.com/vincnttt/TangDynasty-APP/blob/master/README_zh.md)
