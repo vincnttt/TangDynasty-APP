@@ -5,6 +5,7 @@
 * [中文](https://github.com/vincnttt/TangDynasty-APP/tree/master/version/VERSION_zh.md)
 * [More Information About Design and Feature](https://github.com/vincnttt/TangDynasty-APP/blob/master/README.md)
 
+## Update log
 ### **Tang Dynasty 1.0.0**
 * Basic APP design and feature :
     * Reading Tang Dynasty events
