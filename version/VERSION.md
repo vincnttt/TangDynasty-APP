@@ -4,6 +4,7 @@
 ![app-qr](still-on-progress)
 * [中文](https://github.com/vincnttt/TangDynasty-APP/tree/master/version/VERSION_zh.md)
 * [More Information About Design and Feature](https://github.com/vincnttt/TangDynasty-APP/blob/master/README.md)
+* [Copyright](https://github.com/vincnttt/TangDynasty-APP#copyright)
 
 ## Update log
 ### **Tang Dynasty 1.0.0**
