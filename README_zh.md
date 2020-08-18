@@ -43,6 +43,6 @@
 | :---: | :---: | :---: | :---: |
 | ![dark-btn](https://github.com/vincnttt/TangDynasty-APP/blob/master/screenshot/dark_btn.png?raw=true) | ![dark-1](https://github.com/vincnttt/TangDynasty-APP/blob/master/screenshot/dark1.png?raw=true) | ![dark-2](https://github.com/vincnttt/TangDynasty-APP/blob/master/screenshot/dark2.png?raw=true) | ![light-btn](https://github.com/vincnttt/TangDynasty-APP/blob/master/screenshot/light_btn.png?raw=true) |
 
-## **版权**
+# **版权**
 **Copyright © 2019-2020 唐朝大事团队**  
 **版权所有未经许可请勿使用**
