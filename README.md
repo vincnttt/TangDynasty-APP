@@ -42,3 +42,7 @@
 | Dark Mode button | Dark Mode preview-1 | Dark Mode preview-2 | Light Mode button |
 | :---: | :---: | :---: | :---: |
 | ![dark-btn](https://github.com/vincnttt/TangDynasty-APP/blob/master/screenshot/dark_btn.png?raw=true) | ![dark-1](https://github.com/vincnttt/TangDynasty-APP/blob/master/screenshot/dark1.png?raw=true) | ![dark-2](https://github.com/vincnttt/TangDynasty-APP/blob/master/screenshot/dark2.png?raw=true) | ![light-btn](https://github.com/vincnttt/TangDynasty-APP/blob/master/screenshot/light_btn.png?raw=true) |
+
+# **COPYRIGHT**
+**Copyright © 2019-2020 Tang Dynasty Events Team**  
+**All Rights Reserved. Do Not Use Without Permission**
