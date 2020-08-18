@@ -4,7 +4,9 @@
 ![app-qr](still-on-progress)
 * [English](https://github.com/vincnttt/TangDynasty-APP/tree/master/version/VERSION.md)
 * [有关设计和功能的详细信息](https://github.com/vincnttt/TangDynasty-APP/blob/master/README_zh.md)
+* [版权](https://github.com/vincnttt/TangDynasty-APP/blob/master/README_zh.md#%E7%89%88%E6%9D%83)
 
+## 更新记录
 ### **唐朝大事1.0.0**
 * 基本APP设计与功能：
     * 阅读唐朝大事
