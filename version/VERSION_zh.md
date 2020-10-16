@@ -1,7 +1,7 @@
 # 唐朝大事版本
 
-## 扫码下载[或点击这里](https://github.com/vincnttt/TangDynasty-APP/tree/master/version/apk)（安卓）
-![app-qr](still-on-progress)
+## 扫码下载[或点击这里](https://github.com/vincnttt/TangDynasty-APP/blob/master/src/apk/tangchaodashi.apk?raw=true) (安卓)
+![app-qr](https://github.com/vincnttt/TangDynasty-APP/blob/master/src/images/qrcode/qr-download.png)
 * [English](https://github.com/vincnttt/TangDynasty-APP/tree/master/version/VERSION.md)
 * [有关设计和功能的详细信息](https://github.com/vincnttt/TangDynasty-APP/blob/master/README_zh.md)
 * [版权](https://github.com/vincnttt/TangDynasty-APP/blob/master/README_zh.md#%E7%89%88%E6%9D%83)
