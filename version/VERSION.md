@@ -1,7 +1,7 @@
 # Tang Dynasty Version
 
-## Scan to Download [or Click Here](https://github.com/vincnttt/TangDynasty-APP/tree/master/version/apk) (Android)
-![app-qr](still-on-progress)
+## Scan to Download [or Click Here](https://github.com/vincnttt/TangDynasty-APP/blob/master/src/apk/tangchaodashi.apk?raw=true) (Android)
+![app-qr](https://github.com/vincnttt/TangDynasty-APP/blob/master/src/images/qrcode/qr-download.png)
 * [中文](https://github.com/vincnttt/TangDynasty-APP/tree/master/version/VERSION_zh.md)
 * [More Information About Design and Feature](https://github.com/vincnttt/TangDynasty-APP/blob/master/README.md)
 * [Copyright](https://github.com/vincnttt/TangDynasty-APP#copyright)
